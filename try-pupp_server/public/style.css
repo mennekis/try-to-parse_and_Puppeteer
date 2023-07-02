@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+.start{
+    background-color: darkcyan;
+    color:rgb(243, 246, 247);
+
+}
+.start:hover{
+    scale: 1.07;
+    transition: 0.7s;
+    box-shadow: 0 3 10 hwb(0 2% 29% / 0.158);
+    color: darkred;
+    background-color: hsl(120, 38%, 59%);
+}
+.create{
+    margin-bottom: 80px;
+    background-color: chocolate;
+    border-radius: 10px;
+    
+}
+.create-data .create{
+width: 80px;
+height: 40px;
+background-color: lin;
+}
+
+.print-data{
+margin-bottom: 75px;
+background-color: rgb(26, 25, 126);
+color: white;
+border-radius: 12px;
+padding: 10px 8px;
+
+}
